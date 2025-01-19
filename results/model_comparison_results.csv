@@ -1,0 +1,6 @@
+Model,Train Time,Train Accuracy,Test Accuracy
+Baseline,0.00s,0.8873,0.8874
+Logistic Regression,0.11s,0.5585,0.5546
+KNN,0.01s,0.8884,0.8750
+Decision Tree,0.03s,0.7381,0.6602
+SVM,23.07s,0.6182,0.6123
