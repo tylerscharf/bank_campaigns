@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes a Portuguese banking institution's marketing campaigns to predict whether a client will subscribe to a term deposit. The analysis compares the performance of various machine learning classifiers (K-Nearest Neighbors, Logistic Regression, Decision Trees, and Support Vector Machines) to identify the most effective model for predicting customer subscription behavior.
 
+You can view the detailed analysis in the [Jupyter Notebook](bank_campaigns.ipynb).
+
 ## Data Source
 The dataset comes from the [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing) and contains information about:
 - Client demographics (age, job, marital status, education)
